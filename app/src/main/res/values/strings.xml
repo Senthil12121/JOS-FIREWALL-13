@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JOS Firewall</string>
+    <string name="vpn_channel_name">JOS Firewall Service</string>
+    <string name="vpn_channel_desc">Active firewall and network inspection status</string>
+    <string name="vpn_notification_title">JOS Firewall is Active</string>
+    <string name="vpn_notification_text">Protecting network traffic without root</string>
+    
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_applications">Apps</string>
+    <string name="nav_rules">Rules</string>
+    <string name="nav_logs">Logs</string>
+    <string name="nav_dns">DNS</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Dashboard -->
+    <string name="firewall_on">FIREWALL ON</string>
+    <string name="firewall_off">FIREWALL OFF</string>
+    <string name="btn_start_firewall">START FIREWALL</string>
+    <string name="btn_stop_firewall">STOP FIREWALL</string>
+    <string name="stat_download">Download</string>
+    <string name="stat_upload">Upload</string>
+    <string name="stat_allowed">Allowed</string>
+    <string name="stat_blocked">Blocked</string>
+    <string name="section_applications">APPLICATIONS</string>
+    <string name="location_direct_name">Direct Local</string>
+    <string name="location_direct_detail">Direct Carrier Egress</string>
+    <string name="change_location">Change</string>
+    <string name="nav_locations">Locations</string>
+    <string name="location_screen_title">Select Location</string>
+</resources>
